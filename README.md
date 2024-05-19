@@ -8,11 +8,11 @@
 4. [Setup Instructions](#Setup-Instructions)
 5. [Usage](#Usage)
 6. [Purpose and functionality](#Purpose-and-Functionality)
-  - Imports
-  - Class Definition
-  - Add User Method
-  - Authenticate Method
-  - Logging Setup
+    - Imports
+    - Class Definition
+    - Add User Method
+    - Authenticate Method
+    - Logging Setup
 7. [Example Usage](#Example-Usage)
 8. [Example Ouput](#Example-Output) 
 9. [Logging](#Logging)
